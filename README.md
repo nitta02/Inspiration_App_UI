@@ -1,29 +1,32 @@
-# Hi, I'm Nitta Ranjan Sarker! 👋
+# Inspirational Quotes App
 
+A simple Flutter app that displays daily motivational quotes. Users can browse quotes from various categories like Motivation, Life, and Success.
 
+## Screenshots
 
-# Inspiration App UI
-
-This Project basically design for inspiration app ui.
-
-
-## Other Common Github Profile Sections
-- 🔭 I’m currently working on [Profile-O](https://github.com/nitta02/profile_app)
-
-- 🌱 I’m currently learning **Flutter, Kotlin**
-
-- 👯 I’m looking to collaborate on [Quotes_App](https://github.com/nitta02/Quotes_App)
-
-- 🤝 I’m looking for help with [Quotes_App](https://github.com/nitta02/Quotes_App)
-
-- 💬 Ask me about **Html,Css,JavaScript,Java,C,Python**
-
-- 📫 How to reach me **nittaranjantanmoy23@gmail.com**
-### Screenshots
+### Screen
 ![Screen](images/ss.png)
 
-<!-- # GIF
-![inspiration app ui](https://github.com/nitta02/Inspiration_App_UI/assets/110607962/bf961a53-2c6c-4b4f-a02f-f80a859aa653) -->
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/inspirational-quotes-app.git
+
+2. cd inspirational-quotes-app
+3. flutter pub get
+4. flutter run
+
+## Features
+Daily inspirational quotes.
+Browse by categories.
+Simple and clean UI.
+
+## License
+This project is licensed under the MIT License.
+
+This version is straightforward, keeping only the essentials for anyone wanting to quickly understand, install, and run your app.
 
 
 
