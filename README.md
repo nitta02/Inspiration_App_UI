@@ -19,12 +19,11 @@ This Project basically design for inspiration app ui.
 - 💬 Ask me about **Html,Css,JavaScript,Java,C,Python**
 
 - 📫 How to reach me **nittaranjantanmoy23@gmail.com**
-## Screenshots
-![inspiration app ui](https://github.com/nitta02/Inspiration_App_UI/assets/110607962/a6aaa620-b85b-42e2-914f-ee6845f6ab1d)
+### Screenshots
+![Screen](images/ss.png)
 
-
-# GIF
-![inspiration app ui](https://github.com/nitta02/Inspiration_App_UI/assets/110607962/bf961a53-2c6c-4b4f-a02f-f80a859aa653)
+<!-- # GIF
+![inspiration app ui](https://github.com/nitta02/Inspiration_App_UI/assets/110607962/bf961a53-2c6c-4b4f-a02f-f80a859aa653) -->
 
 
 
